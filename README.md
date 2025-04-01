@@ -1,2 +1,2 @@
-# my_first_project
-This is my first project
+# About my first project on GitHub
+`#0969DA`
